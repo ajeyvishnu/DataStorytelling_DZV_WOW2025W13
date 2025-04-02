@@ -1,6 +1,6 @@
 # WOW2025 | Week 13 | Data Storytelling with Dynamic Zone Visibility
 
-![Dashboard Snapshot](snapshot.png)
+![Dashboard Snapshot](Snapshot.png)
 
 ## Introduction
 Welcome to Week 13 of Workout Wednesday 2025! This challenge is inspired by Chiaki (@ishiaki_tab), a Tableau Visionary since 2024 and the winner of the Viz Games at the Salesforce World Tour Tokyo 2024. 
